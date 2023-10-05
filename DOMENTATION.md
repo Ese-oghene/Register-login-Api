@@ -36,7 +36,7 @@ Mongodb: MongoDB is built on a scale-out architecture that has become popular wi
    Example Request:
 
 ```javascript
-POST http://localhost:8080/api/register
+POST http://localhost:8000/api/register
 ```
 PayLoad
 
@@ -82,7 +82,7 @@ Example Response:
    Example Request:
 
 ```javascript
-POST http://localhost:8080/api/login
+POST http://localhost:8000/api/login
 ```
 PayLoad
 
@@ -122,7 +122,7 @@ Example Response:
    Example Request:
 
 ```javascript
-POST http://localhost:8080/api/change-password
+POST http://localhost:8000/api/change-password
 ```
 PayLoad
 
