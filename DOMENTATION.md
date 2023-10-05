@@ -17,7 +17,7 @@ Mongodb: MongoDB is built on a scale-out architecture that has become popular wi
 - Database connection implementation.
 - Usage
 - Base URL
-- The base URL for all API requests is: http://localhost:8080/api/
+- The base URL for all API requests is: http://localhost:8000/api/
 
 
 ## USER REGISTRATION
